@@ -19,7 +19,7 @@ def fun(string):
     newString = ""
     for item in x:
         newString += string[item]
-    return newString
+    return newString.capitalize()
 
 
 

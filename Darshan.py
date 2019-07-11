@@ -4,13 +4,17 @@ name = "Darshan"
 def fun(string):
     """
 
+    Shuffles a string
+
     Parameters
     ----------
-    string: A string that is inputted by the user.
+    string: String
+        A string that is inputted by the user
 
     Returns
     -------
-    newString: The same string but the characters are in random order.
+    String:
+        The same string but the characters are in random order.
 
     """
     Astring = string.lower()

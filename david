@@ -1,0 +1,3 @@
+name ="david"
+def easy(x):
+	return x+2

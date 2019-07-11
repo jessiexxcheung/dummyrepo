@@ -21,5 +21,5 @@ def fun(string):
         newString += string[item]
     return newString
 
-print(fun(name))
+
 
